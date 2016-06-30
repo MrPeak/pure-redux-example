@@ -1,0 +1,28 @@
+{
+  "name": "pure-redux",
+  "version": "1.0.0",
+  "description": "A pure redux example without react.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPeak/pure-redux-example.git"
+  },
+  "keywords": [
+    "redux",
+    "node"
+  ],
+  "author": "mrpeak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPeak/pure-redux-example/issues"
+  },
+  "homepage": "https://github.com/MrPeak/pure-redux-example#readme",
+  "dependencies": {
+    "better-console": "^0.2.4",
+    "redux": "^3.5.2"
+  }
+}
